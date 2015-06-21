@@ -1,5 +1,0 @@
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Geoprocesses\Src\build\v1.1\bin\x86\debug\USC.GISResearchLab.Common.Core.Geoprocesses.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Geoprocesses\Src\build\v1.1\bin\x86\debug\USC.GISResearchLab.Common.Core.Geoprocesses.pdb
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Geoprocesses\Src\Main\obj\x86\Debug\Common.Core.Geoprocesses.csprojResolveAssemblyReference.cache
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Geoprocesses\Src\Main\obj\x86\Debug\USC.GISResearchLab.Common.Core.Geoprocesses.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Geoprocesses\Src\Main\obj\x86\Debug\USC.GISResearchLab.Common.Core.Geoprocesses.pdb

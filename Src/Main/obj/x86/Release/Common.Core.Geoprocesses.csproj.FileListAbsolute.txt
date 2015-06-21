@@ -1,2 +1,0 @@
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Geoprocesses\Src\build\v1.1\bin\x86\release\USC.GISResearchLab.Common.Core.Geoprocesses.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Geoprocesses\Src\Main\obj\x86\Release\USC.GISResearchLab.Common.Core.Geoprocesses.dll
