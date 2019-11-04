@@ -15,7 +15,7 @@ namespace USC.GISResearchLab.Common.Geoprocesses.Configurations
         #endregion
 
         public InputConfig(string inputFilePath, TraceSource traceSource)
-            :base(traceSource)
+            : base(traceSource)
         {
             InputFilePath = inputFilePath;
         }

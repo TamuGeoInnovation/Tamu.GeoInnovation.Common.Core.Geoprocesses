@@ -1,7 +1,7 @@
-using USC.GISResearchLab.Common.Utils.Files;
 using System.Diagnostics;
 using USC.GISResearchLab.Common.Diagnostics.TraceEvents;
 using USC.GISResearchLab.Common.Geoprocesses.Processes.Interfaces;
+using USC.GISResearchLab.Common.Utils.Files;
 
 namespace USC.GISResearchLab.Common.Geoprocesses.Processes.Implementations
 {
@@ -16,10 +16,10 @@ namespace USC.GISResearchLab.Common.Geoprocesses.Processes.Implementations
         }
         #endregion
 
-        public OverwriterClass(){ }
+        public OverwriterClass() { }
 
         public OverwriterClass(TraceSource traceSource)
-            :base(traceSource)
+            : base(traceSource)
         {
             Overwrite = true;
         }

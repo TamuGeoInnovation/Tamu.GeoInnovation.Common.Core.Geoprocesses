@@ -14,7 +14,7 @@ namespace USC.GISResearchLab.Common.Geoprocesses.Configurations
         #endregion
 
         public OutputConfig(string outputFilePath, TraceSource traceSource)
-            :base(traceSource)
+            : base(traceSource)
         {
             OutputFilePath = outputFilePath;
         }

@@ -1,9 +1,9 @@
-using USC.GISResearchLab.Common.Geoprocesses.Processes.Interfaces;
 using System.Diagnostics;
+using USC.GISResearchLab.Common.Geoprocesses.Processes.Interfaces;
 
 namespace USC.GISResearchLab.Common.Geoprocesses.Processes.Implementations
 {
-    public abstract class InputterClass: TraceProcess, IInputableProcess
+    public abstract class InputterClass : TraceProcess, IInputableProcess
     {
         #region Properties
         private string _InputFilePath;
@@ -15,7 +15,7 @@ namespace USC.GISResearchLab.Common.Geoprocesses.Processes.Implementations
         #endregion
 
         public InputterClass(TraceSource traceSource)
-            :base(traceSource){}
+            : base(traceSource) { }
 
         public string GetInput()
         {

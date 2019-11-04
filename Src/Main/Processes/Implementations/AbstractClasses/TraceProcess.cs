@@ -1,5 +1,5 @@
-using USC.GISResearchLab.Common.Geoprocesses.Processes.Interfaces;
 using System.Diagnostics;
+using USC.GISResearchLab.Common.Geoprocesses.Processes.Interfaces;
 
 namespace USC.GISResearchLab.Common.Geoprocesses.Processes.Implementations
 {

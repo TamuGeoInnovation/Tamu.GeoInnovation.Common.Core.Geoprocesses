@@ -3,7 +3,7 @@ using System.Diagnostics;
 
 namespace USC.GISResearchLab.Common.Geoprocesses.Configurations
 {
-    public class InputOutputConfig: TraceableConfig
+    public class InputOutputConfig : TraceableConfig
     {
         #region Properties
         private String _InputFilePath;
@@ -22,7 +22,7 @@ namespace USC.GISResearchLab.Common.Geoprocesses.Configurations
         #endregion
 
         public InputOutputConfig(string inputFilePath, string outputFilePath, TraceSource traceSource)
-            :base(traceSource)
+            : base(traceSource)
         {
             InputFilePath = inputFilePath;
             OutputFilePath = outputFilePath;

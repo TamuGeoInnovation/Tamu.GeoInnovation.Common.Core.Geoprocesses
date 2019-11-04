@@ -1,5 +1,5 @@
-using USC.GISResearchLab.Common.Geoprocesses.Processes.Interfaces;
 using System.Diagnostics;
+using USC.GISResearchLab.Common.Geoprocesses.Processes.Interfaces;
 
 namespace USC.GISResearchLab.Common.Geoprocesses.Processes.Implementations
 {
@@ -17,7 +17,7 @@ namespace USC.GISResearchLab.Common.Geoprocesses.Processes.Implementations
         public OutputterClass() { }
 
         public OutputterClass(TraceSource traceSource)
-            : base(traceSource){ }
+            : base(traceSource) { }
 
 
         public string GetOutput()

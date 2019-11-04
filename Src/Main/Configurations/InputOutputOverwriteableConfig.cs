@@ -14,7 +14,7 @@ namespace USC.GISResearchLab.Common.Geoprocesses.Configurations
         #endregion
 
         public InputOutputOverwriteableConfig(string inputFilePath, string outputFilePath, bool overwrite, TraceSource traceSource)
-            :base(inputFilePath, outputFilePath, traceSource)
+            : base(inputFilePath, outputFilePath, traceSource)
         {
             Overwrite = overwrite;
         }
